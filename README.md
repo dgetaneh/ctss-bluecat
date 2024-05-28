@@ -1,6 +1,6 @@
 # ctss-bluecat
-Scripts related to bluecat IPAM, bulk import, add-delete-modify DNS records
+Scripts related to Bluecat BAM, bulk import, add-delete-modify DNS records
 
 
 This is a great start - branch readme
-The best day if my coding
+
